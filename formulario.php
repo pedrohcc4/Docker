@@ -1,7 +1,7 @@
 <form method="POST">
   <input type="text" name="nome" placeholder="Seu nome" required>
   <textarea name="mensagem" placeholder="Sua mensagem" required></textarea>
-  <button type="submit">Enviar</button>
+  <button type="submit">Enviar mensagem</button>
 </form>
 
 <?php
